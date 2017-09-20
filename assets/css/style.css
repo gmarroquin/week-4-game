@@ -32,8 +32,6 @@ p {
 }
 
 
-object-fit: fill;
-	background-image: url(../images/diamondsAreForever.jpg);
-	
-	background-color: white;
-	background-repeat: no-repeat;
+#startGame{
+	font-size: 8px;
+}
