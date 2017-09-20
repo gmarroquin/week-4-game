@@ -1,0 +1,39 @@
+
+p {
+	color: black;
+	letter-spacing: 5px;
+	font-weight: bold;
+}
+
+#jumbotron {
+	background-color: black;
+	color: white;
+	letter-spacing: 10px;
+	font-family: 'Julius Sans One', sans-serif;
+	text-align: center;
+	background-image: url(../images/bondJamesbond.png);
+	background-repeat: no-repeat;
+}
+
+.panel-body {
+	height: 100px;
+}
+
+.panel-heading, .panel-body {
+	text-align: center;
+
+}
+
+#imageStyleOne, #imageStyleTwo, #imageStyleThree, #imageStyleFour {
+	height: 150px;
+	width: 150px;
+	display: block;
+	margin: auto;
+}
+
+
+object-fit: fill;
+	background-image: url(../images/diamondsAreForever.jpg);
+	
+	background-color: white;
+	background-repeat: no-repeat;
